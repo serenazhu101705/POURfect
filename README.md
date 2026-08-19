@@ -15,7 +15,7 @@
 
 ## Summary
 
-This is a **Flask + React + TypeScript** template for **CS/INFO 4300 class at Cornell University**
+This is a **Flask + React + TypeScript** project.
 
 This template combines:
 - **Backend**: Flask REST API with SQLite database
